@@ -16,4 +16,33 @@
   /* font-family: "Playwrite Regular", serif; */
   /* font-family: "My Other Font", Arial, Helvetica, sans-serif; */
   font-family: "Poppins", sans-serif;
+  /* absolute and relative length */
+  /* pixel and each pixel is 1/96 of an inch */
+  font-size: 4em;
+  font-style: italic;
 }
+
+.box {
+  /* width: 400px;*/
+  /* em looks up to the its own font-size */
+  /* font-size: 30px; */
+  height: 300px;
+  /*  20 x 16px = 320px */
+  /* width: 20em; */
+  border: 3px solid;
+}
+
+.🍊 {
+  /* relative units = em and rem */
+  /* rem = root em */
+  /* font-size: 2rem;
+  font-variant: small-caps; */
+  /* 100 200 300 400 500 600 700 800 and 900 */
+  /* 400 regular/normal and 700 is bold and 900 is bolder */
+  /* font-family: "Poppins", sans-serif;
+  font-weight: 400; */
+  /* font: italic small-caps 600 2em/1.2 "Poppins"; */
+    font: 700 2em "Poppins"
+}
+
+/*  default font size of html is 16px */
