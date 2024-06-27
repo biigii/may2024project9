@@ -1,12 +1,19 @@
-.😀 {
-    color: var(--branding);
-    text-align: center;
-    font-size: 60px;
+/* font text typography */
+/*  we use dot dot to move up a folder ../ ../ */
+
+/* @font-face {
+  font-family: "Playwrite Regular";
+  src: url("../fonts/PlaywriteITModerna-Regular.ttf");
 }
 
-.💲 {
-    text-align: center;
-    text-transform: capitalize;
-    font-size: 40px;
+@font-face {
+  font-family: "My Other Font";
+  src: url("../fonts/Merriweather-Regular.ttf");
+} */
 
+.😀 {
+  color: #765;
+  /* font-family: "Playwrite Regular", serif; */
+  /* font-family: "My Other Font", Arial, Helvetica, sans-serif; */
+  font-family: "Poppins", sans-serif;
 }
