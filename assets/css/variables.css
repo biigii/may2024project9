@@ -1,0 +1,8 @@
+/* :root is pseudo class for HTML or like alias for <html> */
+:root {
+ --branding: #b435eb;
+ --branding-alt: rgb(13, 7, 83);  
+ --white: #faf3f3;
+ --black: #1c1818;
+ --site-width: 1400px;
+}

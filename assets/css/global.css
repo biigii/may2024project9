@@ -1,0 +1,12 @@
+/* * is global selector and it selects all the elements in your html, but it doesn't select pseudo elements*/
+*,
+*::after,
+*::before {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}

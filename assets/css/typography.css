@@ -1,0 +1,13 @@
+.😀 {
+    color: var(--branding);
+    text-align: center;
+    font-size: 60px;
+}
+
+.🐵🐑🦊 {
+    background-color: #f99;
+}
+
+/* h1::before {
+    content: "\260F";
+} */
