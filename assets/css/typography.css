@@ -4,10 +4,9 @@
     font-size: 60px;
 }
 
-.🐵🐑🦊 {
-    background-color: #f99;
-}
+.💲 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
 
-/* h1::before {
-    content: "\260F";
-} */
+}
